@@ -1,0 +1,8 @@
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\CheckersLogic\bin\Debug\CheckersLogic.dll
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\CheckersLogic\bin\Debug\CheckersLogic.pdb
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\CheckersLogic\bin\Debug\Ex02.ConsoleUtils.dll
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\CheckersLogic\obj\Debug\CheckersLogic.csprojAssemblyReference.cache
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\CheckersLogic\obj\Debug\CheckersLogic.csproj.CopyComplete
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\CheckersLogic\obj\Debug\CheckersLogic.dll
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\CheckersLogic\obj\Debug\CheckersLogic.pdb

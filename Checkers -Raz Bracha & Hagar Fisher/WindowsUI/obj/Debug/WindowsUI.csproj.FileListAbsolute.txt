@@ -1,0 +1,14 @@
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\bin\Debug\WindowsUI.exe
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\bin\Debug\WindowsUI.pdb
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\bin\Debug\CheckersLogic.dll
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\bin\Debug\CheckersLogic.pdb
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\obj\Debug\WindowsUI.csprojAssemblyReference.cache
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\obj\Debug\WindowsUI.FormBoard.resources
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\obj\Debug\WindowsUI.FormSettings.resources
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\obj\Debug\WindowsUI.Resource1.resources
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.cache
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\obj\Debug\WindowsUI.csproj.CopyComplete
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\obj\Debug\WindowsUI.exe
+d:\Users\DELL\Desktop\B22 Ex05 HagarFisher 312439599 RazBracha 209186121\WindowsUI\obj\Debug\WindowsUI.pdb
